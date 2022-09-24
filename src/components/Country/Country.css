@@ -1,0 +1,10 @@
+.country {
+    margin: 20px;
+    padding: 10px;
+    border: 2px solid black;
+    background-color: burlywood;
+}
+
+.country img {
+    width: 150px;
+}
